@@ -1,0 +1,7 @@
+I found this app to be incomplete, which is a bit surprising since I also think that not much effort was put into this app. You found and used a lot of libraries. In fact from reviewing the code in
+your repository it appears as though most of the functionality consists of library calls. This does not show that you are aware of android development, it shows that you know how
+to find existing libraries for your apps - which wasn't the goal of this project.
+
+There were several missing features as well, such as the categories and an entire third tab that didn't do anything.
+
+Total: 50 / 70
